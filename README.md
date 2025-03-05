@@ -8,5 +8,6 @@ interested in building cool things with machine learning + software engineering!
 🚀 vp of membership @ [launchpad](https://launchpad.studentorg.berkeley.edu/)  
 
 ### reach me
+🔗 [my website](https://iriszhou-iyz.github.io/)
 📧 iris.zhou@berkeley.edu  
 📍 [linkedin](https://www.linkedin.com/in/iriszhou-iyz)
