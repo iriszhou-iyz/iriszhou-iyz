@@ -10,5 +10,5 @@ interested in building cool things with machine learning + software engineering!
 
 ### reach me
 🔗 [my website](https://iriszhou-iyz.github.io/)  
-📧 iriszhou.iyz@gmail.com
+📧 iriszhou.iyz@gmail.com  
 📍 [linkedin](https://www.linkedin.com/in/iriszhou-iyz)
