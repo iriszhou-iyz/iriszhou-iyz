@@ -2,10 +2,9 @@
 interested in building cool things with machine learning + software engineering! i like making knowledge accessible to all & using computation to make a real-world impact.
 
 ### what i'm up to
-🧸 graduated as a cs + astro double major @ uc berkeley this may
-🌱 learning about operating systems, internet architecture, & relativistic cosmology  
-📓 teaching data structures @ [cs 61b](https://sp26.datastructur.es/)  
-🚀 president @ [launchpad](https://launchpad.studentorg.berkeley.edu/)  
+🧸 graduated as a cs + astro double major @ uc berkeley  
+🌱 learning about operating systems, relativistic cosmology, & ml for astrophysics  
+🔎 looking forward to what's next !  
 
 ### reach me
 🔗 [my website](https://iriszhou-iyz.github.io/)  
